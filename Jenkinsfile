@@ -17,3 +17,4 @@ stages {
           sh './jenkins/scripts/test.sh'
       }
     }
+     }
