@@ -1,0 +1,19 @@
+.PublicForm input[type="text"]{
+
+  width: 600px;
+  padding: 35px;
+
+}
+
+.PublicForm button {
+
+  padding: 37px;
+  color: #fff;
+  background: #019875;
+  border: None;
+  margin-right: 70px;
+}
+
+.PublicForm button:hover {
+  background-color: #02bab5
+}
